@@ -12,9 +12,9 @@
         "build:lambda": "netlify-lambda build src/lambda"
     },
     "dependencies": {
+        "brainy-theme": "github:abreckler/brainy-theme#master",
         "gatsby": "^2.15.11",
         "gatsby-source-notion-database": "^0.6.9",
-        "gatsby-theme-gine-blog": "^0.6.2",
         "react": "^16.9.0",
         "react-dom": "^16.9.0"
     },

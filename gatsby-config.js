@@ -1,7 +1,7 @@
 module.exports = {
     plugins: [
         {
-            resolve: `gatsby-theme-gine-blog`,
+            resolve: `brainy-theme`,
             options: {
                 configTable: "https://www.notion.so/e59fafad47ac4eb69f102508d8ee393e?v=af67b2bd079c480484cae84c761eb914"
             }
